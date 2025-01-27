@@ -1,4 +1,4 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+<h1 align="center">MERN Project</h1>
 
 
 
